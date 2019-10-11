@@ -6,3 +6,5 @@ Dont forget you have Certificate in properties in setup file or after installeti
 Helper++Setup.exe is the file for installation. I encrypted source code for more security so thats why google not recognize application after download.
 I will fix bugs if they appear so come back for uppdates..
 Thanks for Philip Sagebring who has been testing Helper++.
+
+CURRENT Helper++Setup FILE VERION 0.0.0.3
