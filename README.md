@@ -7,4 +7,4 @@ Helper++Setup.exe is the file for installation. I encrypted source code for more
 I will fix bugs if they appear so come back for uppdates..
 Thanks for Philip Sagebring who has been testing Helper++.
 
-CURRENT Helper++Setup.exe FILE VERSION 0.0.0.3
+CURRENT Helper++Setup.exe FILE VERSION 0.0.0.4
