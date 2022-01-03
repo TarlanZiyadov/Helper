@@ -4,6 +4,6 @@ Helper++Setup.exe is the file for installation.
 I will fix bugs if they appear so come back for updates.
 Quality assurance of Helper++ by Philip Sagebring.
 
-CURRENT Helper++Setup.exe FILE VERSION 1.6.2.8
+CURRENT Helper++Setup.exe FILE VERSION 1.7.2.8
 
-Official web page https://softwarefortesting.com/
+Official web page https://hurryshare.com/
