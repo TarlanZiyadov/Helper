@@ -6,4 +6,4 @@ Quality assurance of Helper++ by Philip Sagebring.
 
 CURRENT Helper++Setup.exe FILE VERSION 1.7.2.8
 
-Official web page https://hurryshare.com/
+Official web page https://www.hurryshare.com/softwares/details?user=fQfjWXXOxdeZBwhoP3VIxkbPJLO2&software=HELPERPLUSPLUS
